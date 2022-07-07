@@ -1,0 +1,11 @@
+Cordial saludo Instructor.
+
+En este archivo anexe un instalador del programa NODE JS para asi poder ejecutar el servidor de manera correcta.
+
+
+
+
+
+Adicional esta anexado la base de datos es importante saber que antes de EJECUTAR-SERVIDOR.exe debe inicar el servidor de la base de datos en una red local con el puerto 3306
+
+una vez 
